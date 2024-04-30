@@ -7,6 +7,7 @@ body {
 }
 
 .header {
+  background-color: #4b0082; /* Dark purple color */
   text-align: left;
   padding: 20px;
 }
