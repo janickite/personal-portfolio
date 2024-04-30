@@ -1,7 +1,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: 'Courier New', Courier, monospace; /* Courier New added to the font stack */
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -15,5 +15,5 @@ body {
 }
 
 h1 {
-  color: white; /* Ensures the heading text is white */
+  color: white;
 }
