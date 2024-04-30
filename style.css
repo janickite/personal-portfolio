@@ -22,8 +22,8 @@ body {
 }
 
 .image-left img {
-  max-width: 80px; /* Set the maximum width of the image */
-  max-height: 80px; /* Set the maximum height of the image */
+  max-width: 100px; /* Set the maximum width of the image */
+  max-height: 100px; /* Set the maximum height of the image */
 }
 
 h1 {
