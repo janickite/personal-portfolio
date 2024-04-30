@@ -7,9 +7,10 @@ body {
 }
 
 .header {
-  background-color: #614051; /* Eggplant color */
+  background-color: black; /* Black background */
   text-align: left;
   padding: 20px;
+  color: #4b0082; /* Dark purple text color */
 }
 
 .content {
@@ -26,27 +27,6 @@ body {
   max-width: 400px; /* Set the maximum width of the image */
   max-height: 400px; /* Set the maximum height of the image */
 }
-
-h1 {
-  color: white;
-  margin: 0;
-}
-
-p {
-  color: white;
-  font-size: 16px;
-  margin: 0;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 
 h1 {
   color: white;
