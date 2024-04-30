@@ -16,6 +16,11 @@ body {
   padding: 20px;
 }
 
+.image {
+  text-align: center;
+  padding: 20px;
+}
+
 h1 {
   color: white;
   margin: 0;
