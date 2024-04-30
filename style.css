@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-  background-color: #000;
+  background-color: #614051; /* Eggplant color */
   text-align: left;
   padding: 20px;
 }
@@ -18,14 +18,35 @@ body {
 }
 
 .image-left {
-  float: left;
-  margin-right: 20px;
+  float: left; /* Align the image to the left */
+  margin-right: 20px; /* Add some space to the right of the image */
 }
 
 .image-left img {
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 400px; /* Set the maximum width of the image */
+  max-height: 400px; /* Set the maximum height of the image */
 }
+
+h1 {
+  color: white;
+  margin: 0;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+  margin: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 h1 {
   color: white;
