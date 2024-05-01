@@ -1,29 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Portfolio - Beatrice</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
+body {
+    background-color: black;
+    color: #4b0082; /* Dark purple text color */
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
 
-<div class="header" style="background-color: black; color: #4b0082;">
-    <h1>personal portfolio - beatrice</h1>
-</div>
+.header {
+    text-align: left;
+    padding: 20px;
+}
 
-<div class="content">
-    <div class="project-link">
-        <p><a href="https://janickite.github.io/project1.poetry/" target="_blank">Project 1</a></p>
-    </div>
-    <div class="project-link">
-        <p><a href="page2.html">Project 2</a></p>
-    </div>
-    <div class="project-link">
-        <p><a href="https://janickite.github.io/project3.twine/" target="_blank">Project 3</a></p>
-    </div>
-</div>
+.content {
+    text-align: left;
+    padding: 20px;
+}
 
-</body>
-</html>
+.project-link {
+    margin-bottom: 20px; /* Adjust the spacing between project links */
+}
 
+.image-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.image-left img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    margin: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
