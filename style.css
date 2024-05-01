@@ -31,18 +31,18 @@ body {
 }
 
 h1 {
-    color: #4b0082; /* Dark purple font color */
+    color: #4b0082; 
     margin: 0;
 }
 
 p {
-    color: #4b0082; /* Dark purple font color */
+    color: #4b0082; 
     font-size: 16px;
     margin: 0;
 }
 
 a {
-    color: #4b0082; /* Dark purple font color */
+    color: #4b0082; 
     text-decoration: none;
 }
 
