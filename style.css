@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color: #4b0082; /* Dark purple text color */
+    color: #4b0082; 
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
 }
 
 .project-link {
-    margin-bottom: 20px; /* Adjust the spacing between project links */
+    margin-bottom: 20px; 
 }
 
 .image-left {
