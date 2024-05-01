@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  color: white;
+  color: #4b0082; /* Dark purple text color */
   font-family: 'Courier New', Courier, monospace;
   margin: 0;
   padding: 0;
@@ -10,16 +10,11 @@ body {
   background-color: black;
   text-align: left;
   padding: 20px;
-  color: #4b0082; /* Dark purple text color */
 }
 
 .content {
   text-align: left;
   padding: 20px;
-}
-
-.content p {
-  color: #4b0082; /* Dark purple text color */
 }
 
 .image-left {
@@ -33,18 +28,18 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #4b0082; /* Dark purple text color */
   margin: 0;
 }
 
 p {
-  color: white;
+  color: #4b0082; /* Dark purple text color */
   font-size: 16px;
   margin: 0;
 }
 
 a {
-  color: white;
+  color: #4b0082; /* Dark purple text color */
   text-decoration: none;
 }
 
